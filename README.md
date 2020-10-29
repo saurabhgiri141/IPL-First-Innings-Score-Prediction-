@@ -21,7 +21,7 @@ Evaluation metric: Root Mean Squared Error (RMSE)<br/>
 • **Adaptive Boosting (AdaBoost) - 15.798**
 
 ## Model Prediction
-![pred](readme-resources/prediction.PNG)<br/>
+![pred](prediction.PNG)<br/>
 
 ## Future Scope
 • Add columns in dataset of top batsmen and bowlers of all the teams.<br/>
