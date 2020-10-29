@@ -9,7 +9,6 @@
 ## Data Cleaning and Preprocessing
 • **Removing unwanted columns**<br/>
 • **Keeping only consistent teams**<br/>
-![ct](readme-resources/consistent_teams.PNG)<br/>
 • **Removing the first 5 overs data in every match**<br/>
 • **Converting the column 'date' from string into datetime object**<br/>
 • **Handling categorical features**
